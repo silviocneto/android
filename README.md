@@ -2,7 +2,7 @@
 
   Sistema cloud , mobile (Android) usando SQL para registro de pedidos e integrantes em um restaurante
 
-  O objetivo do aplicativo é agilizar o calculo das contas individuais dos clientes no restaurante.
+  O objetivo do aplicativo é agilizar o cálculo das contas individuais dos clientes no restaurante.
   
   - Na tela inicial existem as seguintes opções: Cardápio, Adicionar integrante, Adicionar Pedido e Conta
   - Cardápio: O usuário irá inserir itens a serem consumidos e seu preços (Ex: Chopp, 5,90)
