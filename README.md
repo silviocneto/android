@@ -1,4 +1,4 @@
-# Conta de restaurante
+# AndroidContaRestaurante
 
   Sistema cloud , mobile (Android) usando SQL para registro de pedidos e integrantes em um restaurante
 
