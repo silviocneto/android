@@ -14,6 +14,7 @@
   A cada pedido feito, o aplicativo divide o valor total do pedido para os integrantes da mesa e salva na CONTA, que é uma tabela com o nome de cada integrante e o valor que cada um tem que pagar.
   
   MODELO DO BANCO DE DADOS
+  
   ![tabelas_app](https://cloud.githubusercontent.com/assets/16818936/13077097/f35f3064-d49d-11e5-9ece-c60fbf686eab.png)
   
   
